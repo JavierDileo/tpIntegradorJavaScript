@@ -1,0 +1,49 @@
+.navbar-expand-lg{
+    background-color: rgb(66, 66, 66);
+    
+}
+
+.card{
+    width: 18rem;
+}
+
+.col-sm-6{
+    width: 50%;
+    flex: 0 0 auto;
+}
+
+.alert-primary{
+    color: #084298;
+    background-color:  #cfe2ff;
+    border-color: #b6d4fe;
+}
+
+
+
+footer{
+    bottom: 0px;
+    left: 0px;
+    right: 0px;
+    position: fixed;
+}
+
+
+nav{
+    background-color: rgb(66, 66, 66);
+    padding-left: 5%;
+    align-items: center;
+    justify-content: space-between;
+}
+.nav .nav-link{
+    color: rgba(255, 255, 255, 0.55);
+}
+.nav .nav-link:hover{
+    color:rgba(255, 255, 255, 0.75);
+}
+.nav .nav-link:focus{
+    color:rgba(255, 255, 255, 0.75);
+}
+.separador{
+    width: 100%;
+    height: 320px;
+}
